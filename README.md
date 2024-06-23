@@ -5,4 +5,4 @@
  4. Домашние животные - нет
  5. Увлечения - собирать мотоциклы, кататься на сноуборде
    
-   ![Моё фото](img\LOGO-Artecon.jpg)
+   ![Моё фото](https://github.com/Artecon89/About-me/blob/main/img/LOGO-Artecon.jpg)
